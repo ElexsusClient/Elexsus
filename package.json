@@ -1,0 +1,24 @@
+{
+  "name": "elexsus",
+  "version": "1.0.0",
+  "main": "fluidCanvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLACH1dasa/Elexsus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLACH1dasa/Elexsus/issues"
+  },
+  "homepage": "https://github.com/PLACH1dasa/Elexsus#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
