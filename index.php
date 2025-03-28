@@ -144,8 +144,8 @@
                 </div>
                     <div class="Footer_centerLinks__C46zx">
                         <span></span>
-						<span></span>
-                        <span>Дискорд для связи: wa1ful</a> (ПН-ПТ 10:00-18:00 МСК)</span>                    
+                        <span></span>
+                        <span>Дискорд для связи: wa1ful</a> (ПН-ПТ 10:00-18:00 МСК)</span>                   
 					</div>
                     <div class="Footer_rightLinks__qJx8U"><span class="mb-2">Навигация</span>
                     <a class="Footer_link__VojPC" href="/datahandle.php">Обработка персональных данных</a>
